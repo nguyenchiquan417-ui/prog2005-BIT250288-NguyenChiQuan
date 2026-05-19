@@ -1,0 +1,6 @@
+so_nguyen = 20
+so_thuc = 4.2
+chuoi ="hello viet nam"
+print("so_nguyen:", so_nguyen)
+print("so_thuc:", so_thuc)
+print("chuoi:", chuoi)
