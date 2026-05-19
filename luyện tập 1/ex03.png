@@ -1,0 +1,10 @@
+a = 6
+b = 3
+tong = a + b
+hieu = a - b
+tich = a * b
+thuong = a / b
+print("tổng:", tong)
+print("hiệu:", hieu)
+print("tích:", tich)
+print("thương:", thuong)
