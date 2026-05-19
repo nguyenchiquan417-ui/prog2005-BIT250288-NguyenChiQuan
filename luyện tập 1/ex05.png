@@ -1,0 +1,13 @@
+name = "nguyễn chí quân"
+age = 19
+average_score = 9.0
+print("name:", type(name))
+print("age:", type(age))
+print("average_score:", type(average_score))
+age_next_year = age + 1
+doubled_score = average_score * 2
+print("name:", name)
+print("age:", age)
+print("average_score:", average_score)
+print("age_next_year:", age_next_year,"- kiểu:", type(age_next_year))
+print("doubled_score;", doubled_score,"- kiểu:", type(doubled_score))
